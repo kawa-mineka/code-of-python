@@ -13,5 +13,8 @@ pip install -U pyxel
 min-sht070.pyとmin-sht2.pyxresをダウンロード
 
 コマンドプロンプトから以下の様に入力して実行します
-`python min-sht070.py`
+
+```sh
+python min-sht070.py
+```
 
