@@ -10,3 +10,6 @@
 ```sh
 pip install -U pyxel
 ```
+source配下のファイルを一式ダウンロード
+
+`python min-sht070.py`
