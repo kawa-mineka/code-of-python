@@ -1,7 +1,13 @@
 # code-of-python
-## インストール方法
+![gif\pyxel-210222-065611.gif](gif\pyxel-210222-065611.gif)
+![gif\pyxel-210222-065611.gif](gif\pyxel-210222-065917.gif)
 
-### Windows
+シューティングゲームっぽい？未完成ですけど・・
+
+## インストール方法
+## Windows
+
+
 
 最初に[Python3](https://www.python.org/) (バージョン3.6.8以上) をインストールします。
 
