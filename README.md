@@ -1,8 +1,10 @@
 # code-of-python
 ![gif/pyxel-210222-065611.gif](gif/pyxel-210222-065611.gif)
 ![gif/pyxel-210222-065611.gif](gif/pyxel-210222-065917.gif)
+
 ![gif/pyxel-210226-194506.gif](gif/pyxel-210226-194506.gif)
 ![gif/pyxel-210226-194639.gif](gif/pyxel-210226-194639.gif)
+
 ![gif/pyxel-210226-195228.gif](gif/pyxel-210226-195228.gif)
 
 シューティングゲームっぽい？未完成ですけど・・
